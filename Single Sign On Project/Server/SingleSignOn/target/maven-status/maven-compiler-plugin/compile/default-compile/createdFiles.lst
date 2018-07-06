@@ -1,0 +1,4 @@
+com\hellokoding\sso\auth\WebApplication.class
+com\hellokoding\sso\auth\JwtUtil.class
+com\hellokoding\sso\auth\CookieUtil.class
+com\hellokoding\sso\auth\LoginController.class
